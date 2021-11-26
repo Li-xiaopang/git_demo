@@ -10,5 +10,6 @@ public class Hello {
         System.out.println("hot-fix2 test");
         System.out.println("master test");
         System.out.println("master test2");
+        System.out.println("hot-fix2 test2");
     }
 }
