@@ -11,4 +11,10 @@ public class Hello {
         System.out.println("master test");
         System.out.println("hot-fix2 test2");
     }
+    public void show2(){
+
+    }
+    public void show3(){
+
+    }
 }
