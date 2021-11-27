@@ -13,6 +13,7 @@ public class Hello {
         System.out.println("hot-fix2 test2");
         System.out.println("github pull test1");
         System.out.println("github push test1");
+        System.out.println("github pull test2");
         System.out.println("confilct");
     }
     public void show1(){
