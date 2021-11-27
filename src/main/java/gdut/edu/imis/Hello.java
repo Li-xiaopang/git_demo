@@ -12,6 +12,7 @@ public class Hello {
         System.out.println("master test2");
         System.out.println("hot-fix2 test2");
         System.out.println("github pull test1");
+        System.out.println("github push test1");
     }
     public void show1(){
 
